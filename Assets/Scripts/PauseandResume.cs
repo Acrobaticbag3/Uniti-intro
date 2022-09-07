@@ -15,7 +15,9 @@ public class PauseMenu : MonoBehaviour
     }
 
     public void Pause() {
-
+        if(Input.GetKeyDown(KeyCode.Escape)){
+            // put button stuff here. Maybe use a while statment too why not.
+        }
     }
 
     public void Resume(){
