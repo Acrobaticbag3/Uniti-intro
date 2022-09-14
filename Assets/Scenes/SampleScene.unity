@@ -1072,7 +1072,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34f9123977d640d4186336618187ad43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hiddenBtn: []
+  hiddenBtn:
+  - {fileID: 566876293}
+  - {fileID: 1930991717}
+  - {fileID: 367750960}
 --- !u!1 &1222300501
 GameObject:
   m_ObjectHideFlags: 0
